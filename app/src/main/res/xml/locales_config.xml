@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale-config xmlns:android="http://schemas.android.com/apk/res/android">
+    <locale android:name="en" /> <!-- English -->
+<!--    <locale android:name="en-GB" /> &lt;!&ndash; English (United Kingdom) &ndash;&gt;-->
+    <locale android:name="fr" /> <!-- French (France) -->
+    <locale android:name="ja" /> <!-- Japanese -->
+    <locale android:name="pl" /> <!-- Polish -->
+<!--    <locale android:name="zh-Hans-MO" /> &lt;!&ndash; Chinese (Simplified) &ndash;&gt;-->
+<!--    <locale android:name="zh-Hant-MO" /> &lt;!&ndash; Chinese (Traditional) &ndash;&gt;-->
+</locale-config>
